@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/Ingridfe1982/firstCLI#readme",
   "dependencies": {
-    "axios": "^0.19.2",
+    "axios": "^0.21.1",
     "country-list": "^2.2.0"
   }
 }
